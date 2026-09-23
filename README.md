@@ -51,7 +51,7 @@ Create a `.env` file in `server/` (see `.env.example` in the project root):
 ```
 PORT=5000
 NODE_ENV=development
-MONGODB_URI=mongodb://localhost:27017/feedants_competition
+MONGODB_URI=mongodb: MONGO_URL
 JWT_SECRET=your_secret_here
 JWT_EXPIRES_IN=7d
 CORS_ORIGIN=*
