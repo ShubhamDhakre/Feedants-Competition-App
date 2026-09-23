@@ -108,7 +108,7 @@ Scan the QR code with Expo Go, or press `a` for Android emulator / `i` for iOS s
 |----------|-------------|---------|
 | `PORT` | Server port | `5000` |
 | `NODE_ENV` | Environment | `development` |
-| `MONGODB_URI` | MongoDB connection string | `mongodb://localhost:27017/feedants_competition` |
+| `MONGODB_URI` | MongoDB connection string | "MONGODB_URL" |
 | `JWT_SECRET` | JWT signing secret | — |
 | `JWT_EXPIRES_IN` | Token expiration | `7d` |
 | `CORS_ORIGIN` | Allowed CORS origins | `*` |
