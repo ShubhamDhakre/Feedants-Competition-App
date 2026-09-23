@@ -47,3 +47,5 @@ coverage/
 # Uploads (server)
 server/uploads/*
 !server/uploads/.gitkeep
+
+.env.example
