@@ -21,6 +21,7 @@ mobile/web-build/
 # Build artifacts
 build/
 dist/
+*.zip
 
 # Logs
 *.log
